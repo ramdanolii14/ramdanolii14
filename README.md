@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Halo, Kamu Kepo Kah?</h1>
+<h1 align="center">Helo, world</h1>
 
 ###
 
