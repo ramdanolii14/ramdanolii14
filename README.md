@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Halo, Kamu Kepo Kah?</h1>
+<h1 align="center">Hello World!</h1>
 
 ###
 
@@ -53,17 +53,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramdanolii14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
 
 ###
 
