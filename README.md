@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Helo, world</h1>
+<h1 align="center">Halo, Kamu Kepo Kah?</h1>
 
 ###
 
@@ -48,7 +48,28 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/pB6YkHCv/Ramdan-Olii-di-depan-gerbang-kampus-4-Universitas-Negeri-Gorontalo.jpg"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ramdanolii14.ramdanolii14&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ramdanolii14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ramdanolii14/ramdanolii14/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
 ###
