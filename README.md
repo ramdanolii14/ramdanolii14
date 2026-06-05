@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">I code whatever i like!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Making+My+Own+Linux+Distro;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka)](https://git.io/typing-svg)
 
 ###
 
@@ -52,6 +52,12 @@
 </div>
 
 ###
+---
+## Kompetensi
+![Kompetensi Kemalasan](./img/certificate.png)
+
+---
+
 
 
 ###
