@@ -58,7 +58,7 @@
 
 ---
 <div align="center">
-  <img src="./img/certificate.png" width="85%" alt="Kompetensi Kemalasan Ramdan Olii" title="Kompetensi Kemalasan Ramdan Olii"/>
+  <img src="./img/certificate.png" width="95%" alt="Kompetensi Kemalasan Ramdan Olii" title="Kompetensi Kemalasan Ramdan Olii"/>
 </div>
 
 ---
