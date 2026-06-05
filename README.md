@@ -4,7 +4,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Making+My+Own+Linux+Distro;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Making+My+Own+Linux+Distro;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka" alt="Ramdan Olii" />
+  </a>
+</p>
+
 
 ###
 
@@ -51,9 +56,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ramdanolii14.ramdanolii14&"  />
 </div>
 
-###
 ---
-## Kompetensi
 ![Kompetensi Kemalasan](./img/certificate.png)
 
 ---
@@ -61,6 +64,14 @@
 
 
 ###
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ramdanolii14&theme=cobalt&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" 
+    height="180"
+    alt="GitHub Streak" 
+  />
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
