@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Making+My+Own+Linux+Distro;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka" alt="Ramdan Olii" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Aku+Suka+Mahiru;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka" alt="Ramdan Olii" />
   </a>
 </p>
 
@@ -74,6 +74,12 @@
     alt="GitHub Streak" 
   />
 </div>
+
+---
+
+Reserved Section
+
+---
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
