@@ -3,7 +3,7 @@
 </div>
  
 ###
-
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Aku+Suka+Mahiru;Trying+To+Impress+The+World;Facebook+Enjoyer;Goonin+To+Kamisato+Ayaka" alt="Ramdan Olii" />
